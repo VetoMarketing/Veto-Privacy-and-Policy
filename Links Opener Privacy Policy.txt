@@ -1,0 +1,50 @@
+Privacy Policy for Profiles Opener Chrome Extension
+
+Last updated: January 2026
+
+Instagram and TikTok URL Links Opener is designed to help users bulk open Instagram and TikTok profile links for productivity purposes. This Privacy Policy explains how the Extension handles user data.
+
+Data Collection
+
+Profiles Opener does not collect, transmit, sell, or share any personal or sensitive user data.
+
+The Extension does not:
+
+Collect personal information
+
+Track browsing activity
+
+Monitor user behavior
+
+Access private or authenticated data
+
+Send data to external servers
+
+Data Usage
+
+Any data handled by the Extension is used solely to perform its core function: opening multiple social media profile URLs at the user’s request.
+
+Local Storage
+
+The Extension may use Chrome’s local storage to save basic user preferences or temporary data (such as previously entered profile URLs) to improve usability.
+All stored data remains locally on the user’s device and is never transmitted outside the browser.
+
+Third-Party Services
+
+Profiles Opener does not use third-party analytics, tracking tools, advertising networks, or external APIs.
+
+Permissions
+
+The permissions requested by the Extension (such as tabs, activeTab, and storage) are used strictly to support its stated functionality and only in response to explicit user actions.
+
+Data Security
+
+Since Profiles Opener does not collect or transmit user data, there is no external data storage or processing that could expose user information.
+
+Changes to This Policy
+
+This Privacy Policy may be updated if the Extension’s functionality changes. Any updates will be reflected in this document.
+
+Contact
+
+If you have questions or concerns about this Privacy Policy, you may contact the developer via the Chrome Web Store listing.
